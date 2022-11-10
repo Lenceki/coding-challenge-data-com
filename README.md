@@ -18,6 +18,6 @@ I add coordinator to inject the repositories so we use it on XCUITest
 
  - Moya - For Http request call 
  - RxSwift - use in data binding 
- - RxCocoa - use to bind in view 
+ - RxCocoa - use to bind data and view 
  - ProgressHUD - Loading indicator
  - Kingfisher - Image downloader with cache
